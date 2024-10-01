@@ -1,0 +1,8 @@
+police-records-management/
+│
+├── create_db.py                   # Script to create the database
+├── models.py                      # Database models for the application
+├── app.py                         # Flask application
+├── requirements.txt               # Dependencies file
+├── README.md                      # Project description
+└── police_records.db              # SQLite database (auto-created by create_db.py)
